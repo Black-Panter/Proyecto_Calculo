@@ -46,7 +46,7 @@ public class Caculo {
             } 
         }
          
-        entrada.close();
+        entrada.close();//
     }
     
     
